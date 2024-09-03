@@ -10,3 +10,5 @@ Random Forest Regressor
 Gradient Boosting Regressor
 
 weighting with Mean absolute error
+
+Done By: Akesit Akkharasaksiri 65110131 Kunlanith Busabong 65110141 Paveetida Tiranatwittayakul 65110145 Rattapol Kitirak 65110149
