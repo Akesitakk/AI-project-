@@ -11,7 +11,7 @@ Gradient Boosting Regressor
 
 weighting with Mean absolute error
 
-Done By: Akesit Akkharasaksiri 65110131 Kunlanith Busabong 65110141 Paveetida Tiranatwittayakul 65110145 Rattapol Kitirak 65110149
+Done By: Akesit Akkharasaksiri 65110131, Kunlanith Busabong 65110141, Paveetida Tiranatwittayakul 65110145, Rattapol Kitirak 65110149
 
 Dataset:
 Weather - https://www.worldweatheronline.com/v2/weather.aspx?q=bkk
